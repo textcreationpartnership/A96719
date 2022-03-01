@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prisoners report: or, A true relation of the cruell usage of the prisoners in Oxford. Together with the strange deliverance of about fourtie men out of the dungeon in Bridewell in Oxford. March the 5. and 6. / Written by Edward Wirley Master of Arts, and Minister, who was himself a prisoner in the castle, and afterwards in the same dungeon. It is this 20. day of March, 1642. ordered by the committee of the House of Commons in Parliament concerning printing, that this book intituled (the Prisoners Report) be printed.</title>
+            <author>Wirley, Edward, 1617 or 18-1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96719</idno>
+            <idno type="STC">Wing W3099</idno>
+            <idno type="STC">Thomason E93_23</idno>
+            <idno type="STC">ESTC R18570</idno>
+            <idno type="EEBO-CITATION">99860426</idno>
+            <idno type="PROQUEST">99860426</idno>
+            <idno type="VID">112546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96719)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112546)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E93[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prisoners report: or, A true relation of the cruell usage of the prisoners in Oxford. Together with the strange deliverance of about fourtie men out of the dungeon in Bridewell in Oxford. March the 5. and 6. / Written by Edward Wirley Master of Arts, and Minister, who was himself a prisoner in the castle, and afterwards in the same dungeon. It is this 20. day of March, 1642. ordered by the committee of the House of Commons in Parliament concerning printing, that this book intituled (the Prisoners Report) be printed.</title>
+                  <author>Wirley, Edward, 1617 or 18-1673.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "March 23 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wirley, Edward, 1617 or 18-1673 --  Early works to 1800.</term>
+               <term>Prisoners' writings, English --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+            <pb facs="tcp:112546:1"/>
+            <p>
+               <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a young man named <hi>Thomas White.</hi> We made what haſte we could to the river <hi>Charroll,</hi> intending (had we been purſued) to ſwim over it; but find<g ref="char:EOLhyphen"/>ing the coaſt clear, we kept the bank about a mile, and then leaving it, took the North Pole for our guide; and (that we might avoid the danger of His Majeſties Scouts) declined all high wayes, and villages, croſſed over plow<g ref="char:EOLhyphen"/>ed lands, incloſed paſtures, high hedges, and deep mierie ditches, till we came into the open fields. Having journied thus all night the morning light began to appear, and diſcovered unto us, that we were not full ten miles from <hi>Oxford,</hi> though, I think, had we gone in a direct line, we might have been twentie.</p>
+            <p>My body was much weakned by my long reſtraint, wet I was in my feet, weary, hungrie and thirſtie, but 'twas no time to linger now, nor any ſecure place was there for refreſhment: on I muſt. Well after a 40-miles circuit, my companion and I with joyfull hearts arrived at <hi>Aylesbury</hi> in <hi>Buckinghamſhire,</hi> where we met with two more of our fellow-priſoners, and were all of us courteouſly received, and beyond our expectation re<g ref="char:EOLhyphen"/>lieved by the worthie Commanders, and other Gentlemen of that gari<g ref="char:EOLhyphen"/>ſon, whoſe favour and bounty I ſhall ever acknowledge with a thankfull heart.</p>
+            <p>I was requeſted by ſome of thoſe worthy Gentlemen to ſet down briefly the uſage of the priſoners in <hi>Oxford,</hi> 'twas my duty to ſatisfie their deſires, and I have done it as ſuccinctly as I could, leaving the full proſecution and farther inlargement of ſo ſad a ſtory to him, who ſhall hereafter write a ſecond book of Martyrs. The Reader ſhall find nothing here, but what I either ſelt, or ſaw, or elſe received by information from thoſe, who have drawn their proofs from their own wofull experience.</p>
+            <p>The perſons impriſoned I ſhall reduce to theſe 3. heads. 1. Gentlemen, under which title I comprehend Parliament men, Commanders, and the Officers in the Parliaments Army. 2. Miniſters. 3. Common Souldiers, ſuch I mean, as did bear arms, or elſe ſuch Yeomen and men of inferiour qualitie, who were taken priſoners to fill up the number, though ſo farre from making oppoſition, that they were onely following their Countrey affairs, and husbandry in the fields.</p>
+            <div n="1" type="part">
+               <head>1. Gentlemen.</head>
+               <p n="1">1. The Gentlemen whom I found in the Caſtle, when I was firſt impri<g ref="char:EOLhyphen"/>ſoned, were theſe; Captain <hi>Wingate,</hi> a member of the Houſe of Commons, he was kept cloſe priſoner in a little roome, and not ſuffered ſo much as to take the aire for his healths ſake, by which means he grew very ſickly; Captain <hi>Walton</hi> a member of the Houſe of Commons, Captain <hi>Scroope,</hi> Captain <hi>Lidcot,</hi> Captain <hi>Auſtin,</hi> Captain <hi>Catſeby,</hi> Captain <hi>Vivers,</hi> and Cap<g ref="char:EOLhyphen"/>tain
+<pb facs="tcp:112546:1"/>
+                  <!-- PDFs PAGE 57 -->
+                  <hi>Lilburne,</hi> all cloſe priſoners, their friends not permitted to ſpeak with them; yea ſome of their wives were denied acceſſe. Captain <hi>Lilburne</hi> was put in irons, Capt. <hi>Scroope</hi> and Capain <hi>Walton</hi> being chamber fellows, had their bed taken from them by that barbarous <hi>Smith,</hi> who threatned to tye their necks and heels together. Some had their libertie ſometimes to walk in the Caſtle court (a little ſtinking yard, and the onely place, that the pri<g ref="char:EOLhyphen"/>ſoners had to eaſe nature, <hi>Smith</hi> not permitting any, no not with a keeper, to go to any other upon that neceſſitie) and thoſe were Sir <hi>William Eſſex</hi> Knight, Cap. <hi>Flemming.</hi> Capt. <hi>Primroſe</hi> a Scotchman, Capt. <hi>Haſlewood,</hi> Cap. <hi>Scotchforth,</hi> and Mr. <hi>Ingram,</hi> who made an eſcape, Lieut. <hi>Dingly,</hi> Lieut. <hi>Ful<g ref="char:EOLhyphen"/>ler,</hi> Lieut. <hi>Lindſey</hi> a Scot, Liut. <hi>Cotterell,</hi> Enſigne <hi>Adams,</hi> Mr. <hi>Moody</hi> and Mr. <hi>Ellis</hi> both of the liveguard to his Excellency the Earl of Eſſex.</p>
+               <p>When Marleborough was taken were brought in Mr. <hi>John Francklin</hi> Eſquire, a Member of the Houſe of Commons, Lieut. Col. <hi>Ramſey,</hi> and a Serjeant Major (whoſe name I remember not) both Scotchmen, M. <hi>Brown.</hi> and young Cap. <hi>Francklin.</hi> About the ſame time were brought in Captain <hi>Hamilton,</hi> and Captain <hi>Forbes</hi> both Scotchmen.</p>
+               <p>After the taking of <hi>Cyrenciſter,</hi> Mr. <hi>George</hi> a Member of the Houſe of Commons, Lieut. Col. <hi>Carr</hi> a Scot, whoſe valour was much ſpoken of for his once or twice repulſing P. <hi>Rupert's</hi> forces, when they had entted the Town, with many other Captains and countrey gentlemen were impri<g ref="char:EOLhyphen"/>ſoned in the ſame Caſtle: moſt of theſe (nay that worthy Commander himſelf Mr. <hi>Carr</hi> did not eſcape) were, when they were taken, ſtripped of their clothes, and put into old filthy rags: moſt of them alſo, when they were with us, were conſtrained for a time to quarter on the bare boards: how long they continued ſo I know not, for within 4. or 5. dayes after I my ſelf was caſt into a dungeon, and ſaw them no more.</p>
+               <p>How inhumanly the monſter <hi>Smith</hi> dealt with theſe worthy Gentle<g ref="char:EOLhyphen"/>men their own Petition to His Majeſtie with the Articles exhibited, or at leaſt that were to be exhibited againſt the ſaid <hi>Smith,</hi> will in due time de<g ref="char:EOLhyphen"/>monſtrate. I muſt crave pardon, if I have, or ſhall fall in the caco-graphie of the names of men, or places.</p>
+            </div>
+            <div n="2" type="part">
+               <head>2. Miniſters.</head>
+               <p n="2">2. The Miniſters who were priſoners in the Caſtle were theſe, M. <hi>Har<g ref="char:EOLhyphen"/>vert</hi> of Banbury, who was (when I was put into the Dungeon) cloſe pri<g ref="char:EOLhyphen"/>ſonet, on whom ſome vile perſons caſt many baſe calumnies, &amp; moſt falſe aſperſions; but when upon examination his innocency appeared, he might have been releaſed upon the taking of a new Proteſtation, which was in many things (as I conceive) quite contrary to that which was framed by the Parliament, and ſent into all parts of the Kingdom, which new Pro<g ref="char:EOLhyphen"/>teſtation
+<pb facs="tcp:112546:2"/>he refuſing was ſtill detained. Doctor <hi>Claiton,</hi> what he was charged with I could never (though I were ſometimes his chamber-fel<g ref="char:EOLhyphen"/>low) underſtand from him. Mr. <hi>Gregor<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> of Cyrenciſter, and Mr. <hi>Stanvill,</hi> a neighbour Miniſter of his, who in their paſſage towards <hi>Oxford,</hi> were not onely deſpightfully, but moſt ſordidly abuſed. The terms of Coblers, Tinkers, and Tub-preachers put upon them: yea theſe Atheiſticall wret<g ref="char:EOLhyphen"/>ches asked them inderiſion, Where is now your God? Mr. <hi>Stanvils</hi> lodg<g ref="char:EOLhyphen"/>ing, when he firſt came to us, was on an old Mat on the ground. There was but one Miniſter more, namely my ſelf, the meaneſt I confeſſe of all the reſt.</p>
+               <p>The Lords reſiding at <hi>Oxford</hi> iſſued forth a kind of Proclamation (I know not what fitter name to give it) to ſecure thoſe of the adjacent villa<g ref="char:EOLhyphen"/>ges, who following their lawfull occaſions ſhould repair to <hi>Oxford:</hi> buſi<g ref="char:EOLhyphen"/>neſſe of importance brought me thither, which when I had diſpatched I went to the Inne for my horſe, but 'twas taken away by one Cap. <hi>Whitley,</hi> who ſeized on it, becauſe he was informed, that I was a round-head (a great crime you ſee is laid to my charge) when I demanded my horſe of <hi>Whitley,</hi> he committed me, and in my paſſage towards priſon I and the Officer with me met <hi>Smith</hi> the Marſhall, who carried me before the Lord chief Juſtice <hi>Heath,</hi> who upon examination of the matter ſeemed angrie with the Officer, that contrary unto the late publiſhed Order I ſhould be ſo injuriouſly dealt with, told me that I ſhould not be wronged, and gave me many good words, wherein he was fruitfull, but proved at laſt verie barren in his actions. I took my leave of his Lordſhip, and depatted, pre<g ref="char:EOLhyphen"/>ſuming, that I was not onely a freeman, but conceiving alſo a probabilitie of getting nay horſe again: but I was no ſooner gone from my Lords pre<g ref="char:EOLhyphen"/>ſence, but the Catch-poude <hi>Smith</hi> laid hands on me again, and ſent me to the Caſtle, From whence I twice petitioned Sir <hi>Robert Heath,</hi> that either ſome charge might be made good againſt me, or elſe that he would be pleaſed to grant me my libertie. But becauſe I rejected the new Proteſta<g ref="char:EOLhyphen"/>tion (for he was made acquainted with it) he alſo rejected my Petitions; ſo impoſing a neceſſity of taking that Proteſtation, which doth (if we re<g ref="char:EOLhyphen"/>ſpect the letter it ſelf) give liberty to accept; or refuſe it.</p>
+               <p>After a fortnights impriſonment, <hi>Smith</hi> tels me, that there is no charge againſt me; and if I will take the Proteſtation, and pay my ſees, I ſhall be releaſed. When I had read the Proteſtation, I gave <hi>Smith</hi> a fair anſwer, hoping to obtain my freedome without yeelding to his conditions: but the man grew cholerick, and commanded me to anſwer directly whether I would take it or not. I told him plainly, I could not. Upon this he curſed me bitterly, and put me out of my chamber, ſo that for a fortnight I was
+<pb facs="tcp:112546:2"/>forced to make the boards my bed, many times was I ſolicited by <hi>Smith,</hi> but ſeeing he could not preuaile, after about ten weekes impriſonment in the Caſtle, and after he had ſoundly beaten me with his cane, he put me in the dungeon at Bridewel, &amp; how it was with me ther you ſhall heare anon.</p>
+               <p>And by the way I cannot but make known the unkindneſſe of Dr. <hi>Radcliffe,</hi> Principall of <hi>Braſen-noſe</hi> Colledge, &amp; his injuſtice towards me I was his Cu<g ref="char:EOLhyphen"/>rate in the Countrey, after I was by the maliciouſneſſe of ſome people driven from a ſmall Living which I had in <hi>Oxford:</hi> how I was oppreſſed by the baſe calumnies and violent dealings of thoſe men, will appeare hereafter. Nine weekes was I in priſon, and yet would not the Doctour, though reſident in <hi>Oxford,</hi> in all this time ſend after me, to inquire, whether I were living or dead: here is his unkindneſſe. And when after ſo long a ſeaſon, I had gotten an opportunitie of writing (paper and Inke being before kept from me) and deſired of him that money (which was juſtly due to me for my paines in his Cure) he returned me this anſwer, that he would not pay me one penny; there was his injuſtice: and when I was in the dungeon, he gave out menacing ſpee<g ref="char:EOLhyphen"/>ches (as I am informed by perſons of credit) that when <hi>Smith</hi> had done tor<g ref="char:EOLhyphen"/>menting me, he himſelfe would begin: and I may adde in this he ſhewed his crueltie: but I leave him to his baggs of gold and ſilver, though perhaps the Souldiers will not.</p>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>3.</hi> Common Souldiers.</head>
+               <p n="3">3. Whom you are to underſtand by common Souldiers, I have expreſſed before. I found not many of theſe in the Caſtle at my firſt entrance. But after nine or ten dayes ſpace, there were nine ſcore perſons brought from <hi>Marle<g ref="char:EOLhyphen"/>borough,</hi> wet and very dirtie, who, after their coards were taken off, were put up into an high Tower, and lodged upon the boards: the roomes were ſo ſtuffed with them, that they could not lie downe one by another; I went to comfort them, and to pray with them, as oft as I could get leave; and by that meanes was a more frequent ſpectator of their miſeries, then other men; at laſt I was threatned, that if I did not forbeare, I ſhould be ſhut up into the ſame place with them. On theſe poore ſoules, did the Viper <hi>Smith</hi> exerciſe his more then ſavage crueltie: He allowed them but five farthings a day, ſo that many of them grew very ſicke; all very weake. <hi>Smith</hi> was often ſolicited to ſhew more mercy: but his anſwer was ſtill; Hang them damned rogues, villaine tra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tors, the Devill take them, they are too well uſed; nay, when ſome of them were ready to expire, and he acquainted therewith; nay, when ſome were brought and laid before his face, yet would not this inhumane wretch ſuffer any thing to be adminiſtred to them for their recovery, ſo that they dyed.</p>
+               <p>Moſt of theſe men being pinched with hunger and thirſt were brought even to the gates of death, and now there began to be a great cry amongſt
+<pb facs="tcp:112546:3"/>them forbread, and water; but <hi>Smith,</hi> and his officers denied them both, though a river ran under the Caſtle-wales. When ſome of them were brought forth for examination, and other ends, they dranke the water wherein moſt of the gentlemen had waſhed their hands, they dranke the raine water in the Caſtle court, and (as I have ben credibly informed) ſome of them have dranke their owne piſſe. By this meanes <hi>Smith</hi> pre<g ref="char:EOLhyphen"/>ſumed, that he had made them pliable, and like ſoft wax fit to receive any impreſion, and therefore tells them, that ſo many of them, as would take the proteſtation, and pay their fees ſhould be releaſed; Many yeilded, and with great charge purchaſed their libertie, of ſome of theſe poore men <hi>Smith</hi> received above twenty pounds a man for their ſees, they that refuſed were put up again in their old mew, &amp; now the tyger <hi>Smith</hi> began to rage againſt them worſe then ever, &amp; after a ſeaſon, when they were extreame hungry, ſent this meſſage to them that as many as would take the proteſt<g ref="char:EOLhyphen"/>tation ſhould have a pennie worth of cheeſe every day, and ſhortly after their liberties; Many poore ſoules imbraced the offer, and proteſted, but within three daies their cheeſe was denied them, and their libertie too, un<g ref="char:EOLhyphen"/>leſſe they would pay large fees, or ſerve under one of his majeſties Cap: or be <hi>Smiths</hi> ſervants. Moſt of theſe ſome way or other obtained their freedome, but ſome ſtill held out, and utterly refuſed the proteſtation, to the greateſt part of whom God hath ſince given a gracious deliverance.</p>
+               <p>The fame (or rather the infamy) of <hi>Smithes</hi> cruelty began to fly through towne and countrey; Monie was ſent to the poore priſoners from their friends and other charitably perſons, but ſometimes they fared little the better for it, for if <hi>Smith</hi> knew it, he would take it from them, it was an uſuall thing with him to picke mens pockets; It may bee, it had ben for<g ref="char:EOLhyphen"/>merly his trade. If they bought meate, his ſervants, if they found it would eate it from them. Many of the proore priſoners were wounded and one Mr. <hi>Bettreſſe</hi> an honeſt Chirurgeon of the towne doing his beſt to' cure them, was requited with <hi>Smithes</hi> crueltie, who twice impriſoned him, who having after much importunity and paiment of large fees procured his libertie, durſt not uiſite his Patients any more, ſo that their wounds ſtanke and feſtred, and ſome of them dyed.</p>
+               <p>This bloody perſecutor <hi>Smith,</hi> more cruell then thoſe in Queene <hi>Ma<g ref="char:EOLhyphen"/>ries</hi> dayes (for he hath been the death of many a man, and I am perſwa<g ref="char:EOLhyphen"/>ded, that had not there beene ſecret wayes to convey food to them that many ſcores of theſe <hi>Marleborough</hi> men had periſhed for want of it) hath beaten many, wounded ſome, exerciſed cruelty towards all; ſome hath he tyed neck and heeles together for the ſpace of 44. howers not ſuffering them to have one bit of bread, or drop of water, ſome have beene tyed after that manner three Weekes without intermiſion having onely e<g ref="char:EOLhyphen"/>nough
+<pb facs="tcp:112546:3"/>to keepe life and ſoule together: and all this, either becauſe, they called for bread, and water, or for that, they refuſed the Proteſtation, and at laſt thoſe poore ſoules, that refuſed, were conveyed from the Caſtle to Bridwell, and there put ſome of them into a dungeon, and the reſt (for the dungeon would not receive all) into a little baſe cold roome on the top of the houſe.</p>
+               <p>Not long after their departure, <hi>Smith</hi> in his fury cals me to him, ſtrickes me on the face, head, and armes with his Cane, and then after many a bitter Curſe, and blaſphemous Oath (and yet this bloody Atheiſt would be thought to be one, that defends the Proteſtant Religion) calls mee Rogue, and Traytor, and charges mee with diſſwading the Priſoners from taking the Proteſtation, would not ſuffer me to anſwer for my ſelf, but preſently cauſes me to be bound with a Coard, and ſo carryed through the Market-place (it was on the Market-day) and commanded them, that guarded me, to tell the people, that I was a Tub Preacher, and then to clap me into the dungeon at Bridwell; they executed their commands with great exteritie. The dungeon was full of people, ſo that being ſtraightned for want of roome, I was driven to ſit all night for 3. weekes together on the bottom of the Dungeon ſtaires, it ſtanke greivouſly, no lodging was there, but the bare ground, no houſe of office but the ſame place (in ſome places of it a man might have gon almoſt over his ſhooes in piſſe.) Our fare was onely water, and a pennie worth of bread once in 24. houres. ſometimes penie halfe penie, and for 4. or 5. daies 2. penie<g ref="char:EOLhyphen"/>worth. Monie we had ſome of us, but nothing could we buy for it, the maſter of the Bridewell was put in priſon for releiving us, two keepers ſet ouer us, and charged on paine of death not to permit any perſon to ſpeake with us, we had no place for the eaſement of nature but that where wee were in, both night &amp; day, alſo ſickperſons were forced in the ſame place to empty their ſtomaks, ſo that the ſtinch of the place was enough to poy<g ref="char:EOLhyphen"/>ſon us.</p>
+               <p>The Cyrenceſter men (for ſome of them were brought out of the churches thither) that were impriſoned over us, dyed daily, many among our ſelves grew extreame ſicke, and we all feared the plague. We petiti<g ref="char:EOLhyphen"/>oned <hi>Smith</hi> to be removed to ſome other place, or at leaſt that the ſicke men might; he denied both. We petitioned again, that the ſicke men might have nouriſhement convenient for their weake eſtates, he anſwered us, that they ſhould have nothing but bread and water, and if in caſe they dyed, ſhould be caſt on a dunghill; we ſaw nothing but death before our eyes, whereupon ſome of our companie went to worke with their kniues, and in time with thoſe weake inſtruments, and a little peice of timber, that was leftcareleſly amongſt us, made a hole through the dungeon-wall
+<pb facs="tcp:112546:4"/>('twas a thicke wall built with ſoft freeſtone, and therefore the more ſeca<g ref="char:EOLhyphen"/>ble) out of which moſt of us iſſued, that were in health, leaving behind us 5 ſicke perſons nigh unto death. Thoſe a ſo that were in the little cham<g ref="char:EOLhyphen"/>ber on the top of the houſe, being formerly acquainted with the whole bu<g ref="char:EOLhyphen"/>ſines, opened their dore, and whilſt the keepers were ſleeping, or other<g ref="char:EOLhyphen"/>wiſe negligent, got to the hole, where we received our bread, and water, cut it or tore it wider, I know not whether (for I was gone ſome houres before) came into the dungeon, &amp; ſo through the ſame place that we did.</p>
+               <p>Many footſteps of Gods immediate providence might be ſeen before, and in the very act of our deliverance. Some of our Company gat out the Lords day late at night; I, my ſelf, and ſome others durſt not goe forth then, fearing the watch. The hole, which was towards a Bakers yard, was open Munday all day, only a ſtone ſet againſt it, and yet not diſcerned, when in the Evening I and ſome 4. more had gotten out, and durſt not, becauſe the ſtreets were full of people, preſently leape over the Bakers Wall, on a ſuddain one in the ſame yard came with a Candle behind us, whom we thought to have been our Keeper, and therefore haſtily leaped altogether into the ſtreete, and yet were not taken notice of by thoſe that paſſed to, and fro in it, neither was the hole diſcerned by the fellow with the Candle, though he were cloſe by it, but the reſt of our company af<g ref="char:EOLhyphen"/>terwards eſcaped out.</p>
+               <p>Wee, who have thus ſeen the ſalvation of God, may ſay with thankfull hearts: God is the Lord by whom we eſcaped death, the Lord looſeth the priſoners; bleſſed be our ſtrong Rock, and prayſed be the God of our ſal<g ref="char:EOLhyphen"/>vation.</p>
+            </div>
+            <div type="postscript">
+               <head>Poſtſcript.</head>
+               <p>By way of <hi>Poſtſcript,</hi> I muſt acquaint you with ſome things Omitted.</p>
+               <p n="1">1. <hi>Cyrenceſter</hi> men were barbarouſly dealt with, before their comming to <hi>Oxford,</hi> and in their paſſage to it: moſt of them were ſtripped of their Cloathes, ſome of their very ſhirts, ſo that many amongſt them, were almoſt naked, they weredriven like Horſes in the Cart-waies; and when they came to <hi>Oxford,</hi> wet and dirtie, as they were, almoſt up to the middle, were put in Churches, where many of them were ſtarved by <hi>Smith,</hi> who wold not <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ermit their wives or ſiſters to com at them, &amp; many their fleſh even rotting from their bones dyed for want of <hi>Chirurgeons.</hi> I beleeve alſo, that many of thoſe, that were Ranſomed, will ſcarce ever recover their former ſtrength again, ſo cruelly were they hand<g ref="char:EOLhyphen"/>led by this Serpent <hi>Smith,</hi> but I hope that ſome one or other will fully ſet out to the veiw of all the World their ſufferings, and <hi>Smithes</hi> unparralled Cruelty.</p>
+               <p n="2">2. There are 2. <hi>Smiths,</hi> both Marſhalls of his Majeſties Army: one of them Provoſt Marſhall generall, a ſluxen-heaired man, and this is the <hi>Smith</hi> mentioned in this Diſcourſe. The other Marſhall of the Horſe, a tall big fellow, and has been formerly (as ſome ſay) a Fencer, a man of a bloody minde alſo.</p>
+               <p n="3">3. <hi>Smithes</hi> Fees for a Gentleman are 20. ſhillings, for a Miniſter (but I muſt intreat him to forbeare me a while) ten ſhillings, and for a Common Souldier <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. ſhillings a day, ſo long as they continue under him.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
